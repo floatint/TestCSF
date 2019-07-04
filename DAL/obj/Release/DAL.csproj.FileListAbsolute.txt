@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\tester\DAL\bin\Release\DAL.dll
+C:\Users\User\Desktop\tester\DAL\bin\Release\DAL.pdb
+C:\Users\User\Desktop\tester\DAL\bin\Release\BLL.dll
+C:\Users\User\Desktop\tester\DAL\bin\Release\BLL.pdb
+C:\Users\User\Desktop\tester\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\tester\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tester\DAL\obj\Release\DAL.dll
+C:\Users\User\Desktop\tester\DAL\obj\Release\DAL.pdb

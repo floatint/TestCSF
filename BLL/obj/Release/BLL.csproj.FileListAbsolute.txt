@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\tester\BLL\bin\Release\BLL.dll
+C:\Users\User\Desktop\tester\BLL\bin\Release\BLL.pdb
+C:\Users\User\Desktop\tester\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\tester\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tester\BLL\obj\Release\BLL.dll
+C:\Users\User\Desktop\tester\BLL\obj\Release\BLL.pdb

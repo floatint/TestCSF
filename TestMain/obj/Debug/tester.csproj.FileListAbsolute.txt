@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\tester\tester\bin\Debug\tester.exe.config
+C:\Users\User\Desktop\tester\tester\bin\Debug\tester.exe
+C:\Users\User\Desktop\tester\tester\bin\Debug\tester.pdb
+C:\Users\User\Desktop\tester\tester\obj\Debug\tester.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\tester\tester\obj\Debug\tester.MainForm.resources
+C:\Users\User\Desktop\tester\tester\obj\Debug\tester.Properties.Resources.resources
+C:\Users\User\Desktop\tester\tester\obj\Debug\tester.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\tester\tester\obj\Debug\tester.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tester\tester\obj\Debug\tester.exe
+C:\Users\User\Desktop\tester\tester\obj\Debug\tester.pdb
+C:\Users\User\Desktop\tester\tester\bin\Debug\BLL.dll
+C:\Users\User\Desktop\tester\tester\bin\Debug\DAL.dll
+C:\Users\User\Desktop\tester\tester\bin\Debug\BLL.pdb
+C:\Users\User\Desktop\tester\tester\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\tester\tester\bin\Debug\InputBox.dll
+C:\Users\User\Desktop\tester\tester\bin\Debug\InputBox.pdb
+C:\Users\User\Desktop\tester\tester\obj\Debug\tester.SettingsForm.resources

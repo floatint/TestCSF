@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\tester\TestHandler\bin\Release\TestHandler.dll
+C:\Users\User\Desktop\tester\TestHandler\bin\Release\TestHandler.pdb
+C:\Users\User\Desktop\tester\TestHandler\bin\Release\BLL.dll
+C:\Users\User\Desktop\tester\TestHandler\bin\Release\BLL.pdb
+C:\Users\User\Desktop\tester\TestHandler\obj\Release\TestHandler.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\tester\TestHandler\obj\Release\TestHandler.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tester\TestHandler\obj\Release\TestHandler.dll
+C:\Users\User\Desktop\tester\TestHandler\obj\Release\TestHandler.pdb

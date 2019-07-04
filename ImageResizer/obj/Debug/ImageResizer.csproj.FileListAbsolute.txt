@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\tester\ImageResizer\bin\Debug\ImageResizer.exe.config
+C:\Users\User\Desktop\tester\ImageResizer\bin\Debug\ImageResizer.exe
+C:\Users\User\Desktop\tester\ImageResizer\bin\Debug\ImageResizer.pdb
+C:\Users\User\Desktop\tester\ImageResizer\obj\Debug\ImageResizer.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\tester\ImageResizer\obj\Debug\ImageResizer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tester\ImageResizer\obj\Debug\ImageResizer.exe
+C:\Users\User\Desktop\tester\ImageResizer\obj\Debug\ImageResizer.pdb

@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\tester\MultiplyTest\bin\Debug\MultiplyTest.exe.config
+C:\Users\User\Desktop\tester\MultiplyTest\bin\Debug\MultiplyTest.exe
+C:\Users\User\Desktop\tester\MultiplyTest\bin\Debug\MultiplyTest.pdb
+C:\Users\User\Desktop\tester\MultiplyTest\bin\Debug\BLL.dll
+C:\Users\User\Desktop\tester\MultiplyTest\bin\Debug\DAL.dll
+C:\Users\User\Desktop\tester\MultiplyTest\bin\Debug\BLL.pdb
+C:\Users\User\Desktop\tester\MultiplyTest\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\tester\MultiplyTest\obj\Debug\MultiplyTest.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tester\MultiplyTest\obj\Debug\MultiplyTest.exe
+C:\Users\User\Desktop\tester\MultiplyTest\obj\Debug\MultiplyTest.pdb
+C:\Users\User\Desktop\tester\MultiplyTest\obj\Debug\MultiplyTest.csprojAssemblyReference.cache
+C:\Users\User\Desktop\tester\MultiplyTest\obj\Debug\MultiplyTest.csproj.CopyComplete

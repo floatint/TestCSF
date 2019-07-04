@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\tester\GraphicsTest\bin\Debug\GraphicsTest.exe.config
+C:\Users\User\Desktop\tester\GraphicsTest\bin\Debug\GraphicsTest.exe
+C:\Users\User\Desktop\tester\GraphicsTest\bin\Debug\GraphicsTest.pdb
+C:\Users\User\Desktop\tester\GraphicsTest\bin\Debug\BLL.dll
+C:\Users\User\Desktop\tester\GraphicsTest\bin\Debug\DAL.dll
+C:\Users\User\Desktop\tester\GraphicsTest\bin\Debug\BLL.pdb
+C:\Users\User\Desktop\tester\GraphicsTest\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\tester\GraphicsTest\obj\Debug\GraphicsTest.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tester\GraphicsTest\obj\Debug\GraphicsTest.exe
+C:\Users\User\Desktop\tester\GraphicsTest\obj\Debug\GraphicsTest.pdb
+C:\Users\User\Desktop\tester\GraphicsTest\obj\Debug\GraphicsTest.csprojAssemblyReference.cache
+C:\Users\User\Desktop\tester\GraphicsTest\obj\Debug\GraphicsTest.csproj.CopyComplete

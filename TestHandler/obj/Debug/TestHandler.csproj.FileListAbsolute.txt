@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\tester\TestHandler\bin\Debug\TestHandler.dll
+C:\Users\User\Desktop\tester\TestHandler\bin\Debug\TestHandler.pdb
+C:\Users\User\Desktop\tester\TestHandler\bin\Debug\BLL.dll
+C:\Users\User\Desktop\tester\TestHandler\bin\Debug\BLL.pdb
+C:\Users\User\Desktop\tester\TestHandler\obj\Debug\TestHandler.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\tester\TestHandler\obj\Debug\TestHandler.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tester\TestHandler\obj\Debug\TestHandler.dll
+C:\Users\User\Desktop\tester\TestHandler\obj\Debug\TestHandler.pdb
+C:\Users\User\Desktop\tester2\TestHandler\bin\Debug\TestHandler.dll
+C:\Users\User\Desktop\tester2\TestHandler\bin\Debug\TestHandler.pdb
+C:\Users\User\Desktop\tester2\TestHandler\bin\Debug\BLL.dll
+C:\Users\User\Desktop\tester2\TestHandler\bin\Debug\BLL.pdb
+C:\Users\User\Desktop\tester2\TestHandler\obj\Debug\TestHandler.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\tester2\TestHandler\obj\Debug\TestHandler.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tester2\TestHandler\obj\Debug\TestHandler.dll
+C:\Users\User\Desktop\tester2\TestHandler\obj\Debug\TestHandler.pdb
